@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, for the more speedy raising of the monies formerly imposed, and yet unpaid, within the City of London and liberties thereof. Die Lunæ, 23 Octobris. 1643. Ordered that this ordinance be forthwith printed and published. Jo. Browne Cler. Parliamentorum. H Elsyng. Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83216</idno>
+            <idno type="STC">Wing E1999</idno>
+            <idno type="STC">Thomason E73_3</idno>
+            <idno type="STC">Thomason E73_3*</idno>
+            <idno type="STC">ESTC R17519</idno>
+            <idno type="EEBO-CITATION">99860208</idno>
+            <idno type="PROQUEST">99860208</idno>
+            <idno type="VID">155474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155474)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E73[3], 13:E73[3*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, for the more speedy raising of the monies formerly imposed, and yet unpaid, within the City of London and liberties thereof. Die Lunæ, 23 Octobris. 1643. Ordered that this ordinance be forthwith printed and published. Jo. Browne Cler. Parliamentorum. H Elsyng. Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An ordinance of the Lords and Commons assembled in Parliament: for the speedy supply of monies within the city of London (pp. 11-18) has separate dated title page; pagination and register are continuous. This was apparently also published separately. Cf. Wing E2064.</note>
+                  <note>Annotation on Thomason copy: "Octob: 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155474:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 134 -->
+            <p>AN ORDINANCE OF THE LORDS and COMMONS ASSEMBLED IN PARLIAMENT, For the more ſpeedy raiſing of the Monies formerly Impoſed, and yet unpaid, within the City of <hi>London</hi> and Liberties thereof.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>Die Lunae, 23 Octobris. 1643.</head>
+                        <p>
+                           <hi>ORdered that this Ordinance be forthwith Printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Jo. Browne Cler. Parliamentorum. H Elſyng. Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155474:2"/>
+            <!-- PDF PAGE 135 -->
+            <pb facs="tcp:155474:2"/>
+            <!-- PDF PAGE 135 -->
+            <head>
+               <hi>Die Lunae,</hi> 23. <hi>Octob.</hi> 1643. AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Commons taking into their conſideration the great burthen and charge hitherto for the moſt part under<g ref="char:EOLhyphen"/>gone by the willing part of the City of <hi>London</hi> and Liberties thereof, by their ready payments and contributions, in pur<g ref="char:EOLhyphen"/>ſuance of ſeverall Acts and Ordinances of Parliament,
+<pb n="2" facs="tcp:155474:3"/>
+               <!-- PDF PAGE 136 -->heretofore made for that purpoſe, whileſt others, through want of the due execution thereof, have either paid and contributed nothing, or not conſiderably thereunto: For remedy thereof, doe Ordaine, and be it Ordained by the ſaid Lords and Commons, that the ſeverall perſons here<g ref="char:EOLhyphen"/>after named, ſhall within the ſeverall Wards of the ſaid City and Liberties, be imployed as agents to put in exe<g ref="char:EOLhyphen"/>cution the ſeverall Acts and Ordinances hereafter men<g ref="char:EOLhyphen"/>tioned, in manner as is hereby Declared, <hi>viz,</hi>
+            </p>
+            <p>In the Ward of
+<list>
+                  <item>Cheape &amp; Cornehill
+<list>
+                        <item>
+                           <hi>Edward Lynſey.</hi>
+                        </item>
+                        <item>
+                           <hi>John Payne</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Algate
+<list>
+                        <item>
+                           <hi>Matthew Bugge</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Poole</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Baſſingſhaw Colemanſtreet
+<list>
+                        <item> 
+                           <hi>James Wight</hi>
+                        </item>
+                        <item> 
+                           <hi>Samuel Wight</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Biſhopſgate within and without
+<list>
+                        <item> 
+                           <hi>Francis Laurence</hi>
+                        </item>
+                        <item> 
+                           <hi>Jeremy Arnold</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Bridgeward Candlewicke
+<list>
+                        <item> 
+                           <hi>Richard Cole</hi>
+                        </item>
+                        <item> 
+                           <hi>Thomas Baker</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="3" facs="tcp:155474:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 136 -->
+                  <item>Billingſgate Tower Ward
+<list>
+                        <item> 
+                           <hi>Humphrey Burey</hi>
+                        </item>
+                        <item> 
+                           <hi>Lynam Robins</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Breadſtreete Cordweyners
+<list>
+                        <item> 
+                           <hi>Arthur Coleman</hi>
+                        </item>
+                        <item> 
+                           <hi>John Anckle</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Vintrey
+<list>
+                        <item> 
+                           <hi>Thomas Lindſey</hi>
+                        </item>
+                        <item> 
+                           <hi>John Eames.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Cripplegate within
+<list>
+                        <item> 
+                           <hi>George Comes</hi>
+                        </item>
+                        <item> 
+                           <hi>Thomas Hamerſley</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Cripplegate without
+<list>
+                        <item> 
+                           <hi>Thomas Layton</hi>
+                        </item>
+                        <item> 
+                           <hi>Jervis Goffe</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Dowgate Walbrooke
+<list>
+                        <item> 
+                           <hi>William Rudgdale</hi>
+                        </item>
+                        <item> 
+                           <hi>Thomas Williamſon</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Queenehithe
+<list>
+                        <item> 
+                           <hi>William Bridges</hi>
+                        </item>
+                        <item> 
+                           <hi>Edward Cole</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Alderſgate
+<list>
+                        <item> 
+                           <hi>Henry Whittingham</hi>
+                        </item>
+                        <item> 
+                           <hi>John Morton</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="4" facs="tcp:155474:4"/>
+                  <!-- PDF PAGE 137 -->
+                  <item>Broadſtreet
+<list>
+                        <item> 
+                           <hi>Henry Wilſon</hi>
+                        </item>
+                        <item> 
+                           <hi>Thomas Thorneton</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Portſoken
+<list>
+                        <item> 
+                           <hi>John Ford</hi>
+                        </item>
+                        <item> 
+                           <hi>Thomas Downall</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Farringdon within
+<list>
+                        <item> 
+                           <hi>Joſeph Hunſcot</hi>
+                        </item>
+                        <item> 
+                           <hi>Maximilian Buck</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Farringdon without the Eaſt diviſion
+<list>
+                        <item> 
+                           <hi>Clement Carter</hi>
+                        </item>
+                        <item> 
+                           <hi>Henry Haſtings</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Farringdon without Fleetſtreet diviſion
+<list>
+                        <item> 
+                           <hi>John Digby</hi>
+                        </item>
+                        <item> 
+                           <hi>Laurence Forden</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Caſtle Baynard
+<list>
+                        <item> 
+                           <hi>Thomas Jervis</hi>
+                        </item>
+                        <item> 
+                           <hi>Adam Houghton</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Langborn Limeſtreet
+<list>
+                        <item> 
+                           <hi>Francis Burriſt</hi>
+                        </item>
+                        <item> 
+                           <hi>Edward Edmonds</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>VVHich ſaid ſeverall perſons, or any other that the Committee for the <hi>Militia</hi> of <hi>London</hi> ſhall adde, who are hereby inabled thereunto, upon notice
+<pb n="5" facs="tcp:155474:4"/>
+               <!-- PDF PAGE 137 -->given them by the Collectors or any of them, of the laſt Subſidies, for foure hundred thouſand pounds, and of the weekely Aſſeſments or any Fif<g ref="char:EOLhyphen"/>teenes heretofore granted by the Common-Coun<g ref="char:EOLhyphen"/>cell of the Citie of <hi>London,</hi> who are hereby requi<g ref="char:EOLhyphen"/>red upon the requeſt of the perſons above named to give notice thereof accordingly, what perſons with<g ref="char:EOLhyphen"/>in their ſeverall Wards, or Precincts have refuſed, or neglected to pay their ſaid Subſidies, Weekely Aſſeſſements, and Fifteenes; And what the ſaid Arrerages are, and upon notice alſo given to the Perſons above named, by the Treaſurors appoin<g ref="char:EOLhyphen"/>ted to receive the monies brought in upon the late Ordinance of the 18. of <hi>Auguſt</hi> laſt; or by any of the Common-Councell men of any Ward, what Arrerages are due thereupon, and from whom, (who are alſo required hereby upon the requeſt of the Per<g ref="char:EOLhyphen"/>ſons above named to give notice thereof according<g ref="char:EOLhyphen"/>ly) ſhall together with the ſaid Collectors of each ſeverall Ward, or any of them, forthwith repaire to the ſeverall Perſons ſo in Arreare, or to the uſu<g ref="char:EOLhyphen"/>all places of their abode. And if upon demand thereof made, ſuch perſons ſhall neglect or refuſe to pay the ſaid weekely Aſſeſſements, Subſidies or the ſaid Fifteenes, to the ſaid Collectors or any of them; And ſhall neglect or refuſe forthwith to pay the Ar<g ref="char:EOLhyphen"/>rerages due upon the ſaid late Ordinance of the eighteenth of <hi>Auguſt,</hi> to the Treaſurors appointed for that purpoſe; That then it ſhall and may bee lawfull to and for the perſons above named, in the preſence of the ſaid Collectors, or any of them, or
+<pb n="6" facs="tcp:155474:5"/>
+               <!-- PDF PAGE 138 -->of the Conſtables of the ſaid ſeverall Wards, and Precincts, who are hereby required to be ayding and aſſiſting herein, within their ſeverall Precincts, and Wards, to deſtreyne, ſeize, take, and carry away from the ſeverall perſons ſo in Arreares, ſo much of the Goods and Eſtate of every ſuch perſon, ſo refuſing or neglecting to pay the ſame as aforeſaid, as may fully ſatisfie the ſaid Arrerages, with all charges of ſeiſures, and removall thereof; And it is alſo ordained, that all the goods ſo ſeized, and di<g ref="char:EOLhyphen"/>ſtreined as aforeſaid, ſhal be forthwith Inventoried by the ſaid perſons above named in the preſence of the ſaid Conſtables, and Collectors, or ſome of them; And alſo appraiſed by ſuch Perſons as ſhal be for that purpoſe appointed, by <hi>William Rowell, Richard Wil<g ref="char:EOLhyphen"/>let, Henry Cole, Richard Everet, Robert Doleman, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Stocke, Thomas Vincent,</hi> and <hi>John Bret,</hi> or any two of them, who are hereby appointed a Committee to ſit at <hi>Greſham</hi> Colledge, to receive the ſaid Inventories, and Goods ſo appraiſed; Which ſaid Inventories are to be ſubſcribed by the perſons hereby appointed to diſtreine, together with the Conſtables or Collectors that ſhall be preſent at the diſtreſſe. And in caſe neither the perſons whoſe goods ſhall bee ſeized, or diſtreyned, nor any in his behalfe doe within three dayes after ſeiſure, redeeme the ſame, as they ſhall be appraiſed, Then the ſaid Committee or any two of them, to ſell the ſame for the beſt advantage; And from time to time to deliver the Monies ſo received for the ſame, to the Treaſurers ſitting at <hi>Guild-Hall London</hi> appoin<g ref="char:EOLhyphen"/>ted
+<pb n="7" facs="tcp:155474:5"/>
+               <!-- PDF PAGE 138 -->by the ſaid Ordinance of the eighteenth of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> laſt; and to reſtore the overplus, if any bee, to the perſons ſo ſeized and diſtreined as aforeſaid.</p>
+            <p>And it is hereby further Ordained by the ſaid Lords and Commons, that the perſons above named, ſhall hereby have power and Authority in the pre<g ref="char:EOLhyphen"/>ſence of the ſaid Collectors, and Conſtables, or any of them, as well within any priviledged places, as without, to break open all Lockes, Doores, or other ſtrength whatſoever, where the Eſtates, Money, or Goods belonging to any ſuch perſon ſo in arreare, are, or ſhall be; And the Trained Bands, Voluntires and other Forces, their Commanders and Officers, and alſo the ſeverall Conſtables and other Officers, within their Limits, are hereby required and enjoy<g ref="char:EOLhyphen"/>ned to be ayding and aſſiſting to the perſons above nominated and imployed, for the ſervice aforeſaid; And it is further Ordained by the ſaid Lords and Commons, that the ſaid Committee, or any two of them, ſhall allow to the perſons above named and appointed, to make ſeiſures as aforeſaid three pence for every pound, which the goods ſo diſtreined by them and ſold ſhall amount unto, and alſo ſuch other allowance to ſuch other perſon or perſons neceſſarily imployed for the ſervice aforeſaid, as the ſaid Committee ſhall thinke requiſite, to bee paid out of the money taken for the ſale of the ſaid goods. It is alſo ordained by the ſaid Lords and Commons to the end both this, and the Ordi<g ref="char:EOLhyphen"/>nance for Sequeſtration formerly made, may be effe<g ref="char:EOLhyphen"/>ctually
+<pb n="8" facs="tcp:155474:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 139 -->put in execution, and that as well the ſeverall Committees for Sequeſtrations, both within the ſaid Citie of <hi>London</hi> and Liberties, and elſewhere, ap<g ref="char:EOLhyphen"/>pointed in purſuance of the Ordinances for Seque<g ref="char:EOLhyphen"/>ſtrations formerly made, as alſo the ſaid Commit<g ref="char:EOLhyphen"/>tee hereby appointed to ſit at <hi>Greſham</hi> Colledge, ſhall have power at ſuch times as the ſaid Committees, or any of them thinke fit, to cauſe the ſaid Collectors, or any other their Under-officers, to give an account upon oath, to the ſaid Committee, or any of them, concerning any the dealings and proceedings of the ſaid Collectors, and Under-officers in their ſeverall imployments under the ſaid Committees. And to the end this preſent Ordinance, or any thing therein contained, may not hinder the due and orderly ex<g ref="char:EOLhyphen"/>ecution of the ſaid Ordinances formerly made for the ſequeſtrations of the eſtates of Papiſts and De<g ref="char:EOLhyphen"/>linquents within the ſaid Citie of <hi>London</hi> and liber<g ref="char:EOLhyphen"/>ties thereof;</p>
+            <p>Be it therefore ordained, that all ſuch as ſhall frau<g ref="char:EOLhyphen"/>dulently imbezele, conceale, or convey away all, or any part of their goods, money, or eſtate, with<g ref="char:EOLhyphen"/>out valuable conſideration, <hi>Bona fide,</hi> thereby pre<g ref="char:EOLhyphen"/>venting or avoyding the payment of any Taxes or Aſſeſſements, laid upon them by any Ordinance of both Houſes of Parliament, or any diſtreſſe or ſei<g ref="char:EOLhyphen"/>ſure in caſe of non payment thereof, or that after any ſuch Tax or Aſſeſſements convey themſelves away, or refuſe to be ſpoken with, whereby any ſuch Tax or Aſſeſſement layd on them by any Ordinance of
+<pb n="9" facs="tcp:155474:6"/>
+               <!-- PDF PAGE 139 -->both Houſes of Parliament cannot be executed up<g ref="char:EOLhyphen"/>on them, or their eſtates, according to the true meaning and purport thereof, ſhall be ſtill taken to bee delinquents, onely within the ſaid Ordinance of Sequeſtration, and their Eſtates ſequeſtred by the ſaid ſequeſtrators (the Common-Councell men and Collectors of each Ward and Precinct within the ſaid Citie and Liberties, being hereby required upon requeſt made to them, or any of them, by the ſaid Committee for ſequeſtrations, or the Collectors ap<g ref="char:EOLhyphen"/>apointed by the ſaid Committee, to give a Cata<g ref="char:EOLhyphen"/>logue or other notice of ſuch perſons now or hereto<g ref="char:EOLhyphen"/>fore inhabiting within their ſeverall Wards, This preſent Ordinance or any thing therein contained to the contrary in any wiſe notwithſtanding; And it is alſo ordained by the ſaid Lords and Commons, that if the ſaid Collectors, Conſtables or any other perſons hereby appointed or to bee appointed for the purpoſes mentioned in this Ordinance, and in purſuance thereof ſhall refuſe or neglect to execute and doe what hereby is required from them or any of them, that then upon proofe made thereof to the Committee of the Houſe of Commons for exami<g ref="char:EOLhyphen"/>nations, ſitting at <hi>Weſtminſter,</hi> or to the <hi>Militia</hi> for the Citie of <hi>London,</hi> every perſon ſo refuſing, or neglecting as aforeſaid, ſhall bee by the ſaid Com<g ref="char:EOLhyphen"/>mittees, or either of them committed to ſafe cuſto<g ref="char:EOLhyphen"/>dy without Baile or Mainepriſe, or Aſſeſſed to pay ſuch ſummes of money by way of fine, as the ſaid Committee, or <hi>Militia</hi> ſhall thinke fit, ſo the ſame
+<pb n="10" facs="tcp:155474:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 140 -->exceed not the ſumme of ten pounds for any one offence, and every perſon and perſons doing and performing any thing in purſuance of this preſent Ordinance ſhall bee therefore from time to time kept harmeleſſe by the authoritie of both Houſes of Parliament.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parliamentorum. H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
